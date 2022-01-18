@@ -1,4 +1,4 @@
 # my-first-repo
-this is my first repo
-lesson-
-1
+## this is my first repo
+### lesson-
+###### 1
